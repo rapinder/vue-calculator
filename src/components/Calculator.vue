@@ -29,7 +29,7 @@
         data(){
             return {
                 previous: null,
-                current: '600',
+                current: '',
                 operator: '',
                 operatorClicked: false,
             }
